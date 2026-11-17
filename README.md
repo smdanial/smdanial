@@ -2,7 +2,7 @@
 
 # Hi, I'm S M Danial 👋
 
-**1st-year CS undergrad · tech enthusiast · builder from Dhaka, Bangladesh 🇧🇩**
+**1st-year CS undergrad · tech enthusiast · builder from - Dhaka, Bangladesh 🇧🇩**
 
 *"Let's build together."*
 

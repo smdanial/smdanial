@@ -21,7 +21,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm S M Danial</h1>
+<h1 align="center">Hi , I'm S M Danial</h1>
 
 <hr/>
 

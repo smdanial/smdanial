@@ -1,121 +1,134 @@
+<!-- OPTIONAL: put your own banner image at assets/banner.png (a dithered / pixel-art style one looks great) and replace the banner below with:
+<img src="assets/banner.png" width="100%" alt="banner"/> -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a0a0a,50:7a0f14,100:d11a2a&text=S%20M%20DANIAL&fontColor=f2f2f2&fontSize=64&fontAlign=50&fontAlignY=38&desc=Project%20Mayhem%20%7C%20Dhaka%2C%20Bangladesh&descSize=18&descAlignY=60&animation=fadeIn" alt="S M Danial" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=3200&pause=900&color=D11A2A&center=true&vCenter=true&width=640&lines=You+are+not+your+tutorial+projects.;I+build+things+that+actually+ship.;1st-year+CS+%7C+Hackathon+winner+%7C+CTF+player.;Open+to+internships+%26+hackathon+teams." alt="Typing animation"/>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-smdanial.vercel.app-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7a0f14)](https://smdanial.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-smdanial17-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7a0f14)](https://linkedin.com/in/smdanial17/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-s.mdanial-0a0a0a?style=for-the-badge&logo=instagram&logoColor=white&labelColor=7a0f14)](https://www.instagram.com/s.mdanial/)
-[![Email](https://img.shields.io/badge/EMAIL-s.mdanial17@gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7a0f14)](mailto:s.mdanial17@gmail.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=smdanial&style=flat-square&color=d11a2a&label=VISITORS)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0d1117,100:1f2937&text=%3E_%20smdanial.dev&fontColor=e6edf3&fontSize=54&fontAlign=50&fontAlignY=45&desc=build%20%E2%80%A2%20break%20%E2%80%A2%20learn%20%E2%80%A2%20repeat&descSize=18&descColor=8b949e&descAlignY=70" width="100%" alt="banner"/>
 
 </div>
 
----
+<h1 align="center">Hi 👋, I'm S M Danial</h1>
 
-## 🧼 THE RULES OF THIS PROFILE
+<hr/>
 
-> *Inspired by the cult classic. All rules below are my own.*
-
-```text
-RULE 1.  Ship it. A project that stays in your head is not a project.
-RULE 2.  Ship it again, better. Version 2 is where the real fight begins.
-RULE 3.  When a bug taps out, it's only the first round.
-RULE 4.  One idea per night. One commit per idea.
-RULE 5.  No tutorials-only portfolios. Build something real.
-RULE 6.  If this is your first hackathon, you have to build.
-RULE 7.  Collaborators are welcome. Ego is not.
-```
-
----
-
-## 🩸 WHO IS DANIAL?
-
-```text
-NAME ........ S M Danial
-STATUS ...... 1st-year CS undergrad @ NITER
-LOCATION .... Dhaka, Bangladesh 🇧🇩
-MISSION ..... Build the next big thing. (How and when: still being figured out.)
-CURRENTLY ... Building "Insify", a music platform where you can add songs from reels
-LEARNING .... Reverse Engineering
-OPEN TO ..... Internships, hackathon teams, collaborations (software + cybersecurity)
-```
-
-I like building stuff. I'm not claiming to be the best coder in the room, but I know how things function, and I keep pushing until they work. If you have something you think is a big deal, **come find me.**
-
----
-
-## 🔧 THE TOOLBOX
+<h3 align="center">CS Undergrad · Builder · Hackathon Winner</h3>
 
 <div align="center">
 
-![Django](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite_8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_v4-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Three.js](https://img.shields.io/badge/Three.js_(R3F)-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B949E&center=true&vCenter=true&width=600&lines=Let's+build+together.;Just+Build+It.;Learning+Reverse+Engineering.;Open+to+internships+%26+hackathon+teams." alt="Typing animation"/>
+
+<p>Building useful projects, winning hackathons, and getting better at software and cybersecurity every day.</p>
 
 </div>
 
----
+<hr/>
 
-## 💥 PROJECT MAYHEM (My Projects)
+<h2 align="center">🚀 About Me</h2>
 
-| # | Project | What it does | Tech |
-|---|---|---|---|
-| 01 | 🎙️ **Fis-Fis** | Turns short spoken Banglish (Bengali mixed with English) into a tidy text note. No typing, no keyboard switching. | Speech to text |
-| 02 | 🎓 **CampusEase** | Student-life toolkit: room finder, library seats, bus tracker, lost and found, and notices. | Django REST API, Next.js |
-| 03 | 🪑 **Heaven Furniture Mart** | Luxury interior landing page with scroll-driven 3D model assemblies, tuned for smooth 60 FPS. | React 19, Vite 8, Tailwind v4, Three.js |
+<table>
+<tr>
+<td width="62%" valign="top">
 
-👉 More on my [portfolio](https://smdanial.vercel.app/projects).
+**Danial**, here: a 1st-year Computer Science undergrad at NITER in Dhaka, Bangladesh.
 
----
+I like building stuff, and I really want to build the next big thing. I don't know how or when yet, but I'm working toward it. I'm not claiming to be the best coder in the room, but I understand how things function.
 
-## 🥊 FIGHT RECORD
+Currently **building Insify**, a music platform where you can add songs from reels, while **learning Reverse Engineering**.
+
+My goal is simple: build useful things, compete seriously, and grow into an engineer who creates products that last.
+
+📍 Dhaka, Bangladesh 🇧🇩
+🤝 **Open to** internships, hackathon teams, and collaborations in software and cybersecurity.
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://github.com/smdanial.png?size=300" width="220" alt="S M Danial"/>
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
+<h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/smdanial"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/smdanial17/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/s.mdanial/"><img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram"/></a>&nbsp;&nbsp;
+  <a href="mailto:s.mdanial17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email"/></a>&nbsp;&nbsp;
+  <a href="https://smdanial.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Portfolio"/></a>
+</p>
+
+<hr/>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,nextjs,react,vite,tailwind,threejs,git,github,vercel&perline=9" alt="Tech stack"/>
+</p>
+
+<hr/>
+
+<h2 align="center">🛠️ Featured Projects</h2>
 
 <div align="center">
 
-| Round | Event | Result |
+| Project | What it does | Tech |
+|---|---|---|
+| 🎙️ **Fis-Fis** | Turns short spoken Banglish (Bengali mixed with English) into a tidy text note. No typing, no keyboard switching. | Speech to text |
+| 🎓 **CampusEase** | Student-life toolkit: room finder, library seats, bus tracker, lost and found, and notices. | Django REST API, Next.js |
+| 🪑 **Heaven Furniture Mart** | Luxury interior landing page with scroll-driven 3D model assemblies at smooth 60 FPS. | React 19, Vite 8, Tailwind v4, Three.js |
+
+[See all projects on my portfolio →](https://smdanial.vercel.app/projects)
+
+</div>
+
+<hr/>
+
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+
+| | Event | Result |
 |:---:|---|:---:|
-| 🥇 | **Hacktoberfest 2026** (Hack Day Dhaka): best use of an open weight model, with MLH and Machine Learning Bangladesh | **1ST PLACE** |
-| 🥊 | **Intra NITER Programming Contest 2026** (team "Penguins") | **5th of 25** |
+| 🥇 | **Hacktoberfest 2026** (Hack Day Dhaka): best use of an open weight model | **1st place** |
+| 🥊 | **Intra NITER Programming Contest 2026** (team "Penguins") | 5th of 25 teams |
 | 🛡️ | **BUP CSE FEST '26 CTF** (team sudo_cactus) | Preliminary round |
 | 💻 | **BUP CSE FEST '26 Hackathon** (team "4 Bits") | Preliminary round |
-| 🔐 | **Phoenix Summit 2026** (cybersecurity summit) | Attended |
-| 🧩 | **RACDOX Hackathon**, entered as a solo builder | Participant |
+| 🔐 | **Phoenix Summit 2026** | Attended |
+| 🧩 | **RACDOX Hackathon** (solo builder) | Participant |
 
 </div>
 
----
+<hr/>
 
-## 📈 THE NUMBERS
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=smdanial&theme=tokyonight&hide_border=true&background=161b22" alt="GitHub streak"/>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=smdanial&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=d11a2a&icon_color=d11a2a&text_color=e6e6e6)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smdanial&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=d11a2a&text_color=e6e6e6)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smdanial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smdanial&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" height="165" alt="Top languages"/>
+</p>
 
-![Streak](https://streak-stats.demolab.com/?user=smdanial&hide_border=true&background=0a0a0a&stroke=d11a2a&ring=d11a2a&fire=d11a2a&currStreakLabel=e6e6e6&sideLabels=e6e6e6&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=999999)
+<hr/>
 
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=smdanial&bg_color=0a0a0a&color=e6e6e6&line=d11a2a&point=ffffff&area=true&area_color=d11a2a&hide_border=true)
+<h2 align="center">📈 Activity Graph</h2>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smdanial&theme=tokyo-night&bg_color=161b22&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
+</p>
 
----
+<hr/>
 
-## 📫 JOIN THE CLUB
+<p align="center">
+  <b>Have an idea, a hackathon team, or an internship opening?</b><br/>
+  <a href="https://smdanial.vercel.app/contact">Write to me →</a>
+</p>
 
-Have an idea, a hackathon team, or an internship opening? **[Write to me](https://smdanial.vercel.app/contact)** or find me on [LinkedIn](https://linkedin.com/in/smdanial17/).
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:d11a2a,50:7a0f14,100:0a0a0a&section=footer" width="100%" alt=""/>
-
-*Leave a ⭐ if you read this far. Pink soap is optional.* 🧼
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=smdanial&style=flat-square&color=1f6feb&label=VISITORS" alt="Visitors"/>
+</p>

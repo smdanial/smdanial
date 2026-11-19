@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B949E&center=true&vCenter=true&width=600&lines=Let's+build+together.;Just+Build+It.;Learning+Reverse+Engineering.;Open+to+internships+%26+hackathon+teams." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B949E&center=true&vCenter=true&width=600&lines=Let's+build+together.;Learning+New+Things.;Open+to+internships+%26+hackathon+teams." alt="Typing animation"/>
 
 <p>Building useful projects, winning hackathons, and getting better at software and cybersecurity every day.</p>
 

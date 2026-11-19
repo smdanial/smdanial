@@ -1,9 +1,24 @@
-<!-- OPTIONAL: put your own banner image at assets/banner.png (a dithered / pixel-art style one looks great) and replace the banner below with:
-<img src="assets/banner.png" width="100%" alt="banner"/> -->
+<!-- ======================================================================
+     HOW TO READ THIS FILE
+     Every block I added or changed in this round is marked with a comment
+     that starts with [CHANGE 1], [CHANGE 2], [CHANGE 3] or [CHANGE 4]:
+       CHANGE 1 = banner is a clickable grainy glitch SVG
+       CHANGE 2 = your photo in About Me
+       CHANGE 3 = portfolio icon moved first in Connect
+       CHANGE 4 = stats refresh settings + optional daily metrics card
+     To remove or edit something, delete or change the block that follows
+     the comment, up to the next comment or closing tag.
+     ====================================================================== -->
+
+<!-- [CHANGE 1] CLICKABLE GRAINY GLITCH BANNER
+     - Clicking it opens your portfolio (change the href to link elsewhere).
+     - The animation itself lives in assets/banner.svg (colors, text and speed
+       are explained in comments at the top of that file).
+     - To go back to a plain banner, delete this whole <div> block. -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0d1117,100:1f2937&text=%3E_%20smdanial.dev&fontColor=e6edf3&fontSize=54&fontAlign=50&fontAlignY=45&desc=build%20%E2%80%A2%20break%20%E2%80%A2%20learn%20%E2%80%A2%20repeat&descSize=18&descColor=8b949e&descAlignY=70" width="100%" alt="banner"/>
-
+  <a href="https://smdanial.vercel.app/" title="Open my portfolio">
+    <img src="assets/banner.svg" width="100%" alt="smdanial.dev - click to open portfolio"/>
+  </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm S M Danial</h1>
@@ -42,7 +57,11 @@ My goal is simple: build useful things, compete seriously, and grow into an engi
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://github.com/smdanial.png?size=300" width="220" alt="S M Danial"/>
+<!-- [CHANGE 2] YOUR PHOTO
+     The file must exist at assets/about.jpg in this repo.
+     - Change width="220" to make it bigger or smaller.
+     - Want it round? Add: style="border-radius:50%" (GitHub may ignore it on some views). -->
+<img src="assets/about.jpg" width="240" alt="S M Danial"/>
 
 </td>
 </tr>
@@ -52,12 +71,14 @@ My goal is simple: build useful things, compete seriously, and grow into an engi
 
 <h2 align="center">🤝 Connect</h2>
 
+<!-- [CHANGE 3] PORTFOLIO ICON IS NOW FIRST (Vercel icon = your portfolio).
+     To reorder, cut and paste any <a> line. To remove one, delete its line. -->
 <p align="center">
-  <a href="https://github.com/smdanial"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/smdanial17/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/s.mdanial/"><img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram"/></a>&nbsp;&nbsp;
-  <a href="mailto:s.mdanial17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email"/></a>&nbsp;&nbsp;
-  <a href="https://smdanial.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Portfolio"/></a>
+  <a href="https://smdanial.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Portfolio" title="Portfolio"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/smdanial"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" title="GitHub"/></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/smdanial17/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" title="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/s.mdanial/"><img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" title="Instagram"/></a>&nbsp;&nbsp;
+  <a href="mailto:s.mdanial17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" title="Email"/></a>
 </p>
 
 <hr/>
@@ -105,14 +126,37 @@ My goal is simple: build useful things, compete seriously, and grow into an engi
 
 <h2 align="center">📊 GitHub Stats</h2>
 
+<!-- [CHANGE 4] AUTO-REFRESHING STATS
+     These cards are generated live from your GitHub data every time they load,
+     so they already update by themselves. What changed:
+     - cache_seconds=21600 on the stats / languages cards makes them re-fetch
+       every 6 hours (the lowest this service allows) instead of once a day.
+       Delete "&cache_seconds=21600" if you don't care.
+     - GitHub itself also caches images for a while, so a new commit can take
+       a few hours to show up. That is normal, not a bug.
+     - For a fully self-updating version, see the OPTIONAL block below and the
+       workflow file in .github/workflows/update-metrics.yml -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=smdanial&theme=tokyonight&hide_border=true&background=161b22" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smdanial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smdanial&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=smdanial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&cache_seconds=21600" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smdanial&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&cache_seconds=21600" height="165" alt="Top languages"/>
 </p>
+
+<!-- [CHANGE 4, OPTIONAL] DAILY SELF-HOSTED METRICS CARD
+     Turn this on ONLY after you add the GitHub Action (see the setup notes).
+     The Action rebuilds assets/github-metrics.svg every day and commits it,
+     so it never depends on third-party servers.
+     To enable: delete this comment's opening and closing markers around the
+     block below (see the setup notes), so the <p> block shows up. -->
+
+<!-- OPTIONAL BLOCK (currently OFF): delete this line and the closing marker line to turn on
+<p align="center">
+  <img src="assets/github-metrics.svg" width="100%" alt="GitHub metrics"/>
+</p>
+-->
 
 <hr/>
 
